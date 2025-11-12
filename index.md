@@ -17,15 +17,15 @@ We focus on creating modular, extensible solutions that address real-world optim
 
 Our main repositories showcase different aspects of optimization and Operations Research:
 
-### Column Generation
-Advanced algorithms and tools for solving large-scale optimization problems using column generation techniques. This project provides efficient implementations of Dantzig-Wolfe decomposition and cutting-stock problem solvers.
+### Vehicle Routing Problem with Column Generation
+This project addresses the Vehicle Routing Problem with Time Windows (VRPTW) and its variants by employing a Dantzig–Wolfe reformulation combined with a column generation approach.
 
-**Repository:** [Column Generation](https://github.com/OR-toolkit/Column-Generation)
+**Repository:** [Vehicle Routing Problem](https://github.com/OR-toolkit/vrptw)
 
 ### Stochastic Programming
-Tools and frameworks for modeling and solving optimization problems under uncertainty. Includes scenario generation, stochastic decomposition methods, and sample average approximation techniques.
+Implements a stochastic optimization problem using the Stochastic Programs with Recourse formulation. The goal is to analyze and solve the problem under different demand variances using various models.
 
-**Repository:** [Stochastic Programming](https://github.com/OR-toolkit/Stochastic-Programming)
+**Repository:** [Stochastic Programming](https://github.com/OR-toolkit/site-allocation-solver)
 
 ---
 
