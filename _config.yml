@@ -1,0 +1,15 @@
+# Site settings
+title: OR-toolkit
+description: Operations Research Toolkit - A collection of tools and libraries for optimization problems
+url: "https://or-toolkit.github.io"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Exclude from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
