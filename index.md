@@ -3,11 +3,11 @@ layout: default
 title: Home
 ---
 
-# OR-toolkit
+# Operations Research Suite 
 
 ## About / Mission
 
-OR-toolkit is a research-oriented organization dedicated to developing and maintaining high-quality tools and libraries for Operations Research and optimization problems. Our mission is to provide accessible, efficient, and well-documented implementations of advanced optimization techniques that can be used by researchers, students, and practitioners alike.
+Operations Research Suite (OR-toolkit) is a research-oriented organization dedicated to developing and maintaining high-quality tools and libraries for Operations Research and optimization problems. Our mission is to provide accessible, efficient, and well-documented implementations of advanced optimization techniques that can be used by researchers, students, and practitioners alike.
 
 We focus on creating modular, extensible solutions that address real-world optimization challenges while maintaining academic rigor and practical applicability.
 
@@ -20,12 +20,12 @@ Our main repositories showcase different aspects of optimization and Operations 
 ### Vehicle Routing Problem with Column Generation
 This project addresses the Vehicle Routing Problem with Time Windows (VRPTW) and its variants by employing a Dantzig–Wolfe reformulation combined with a column generation approach.
 
-**Repository:** [Vehicle Routing Problem](https://github.com/OR-toolkit/vrptw)
+**Repository:** [Vehicle Routing with Column Generation](https://github.com/OR-toolkit/vrptw)
 
-### Stochastic Programming
+### Stochastic Programming with Recourse formulation
 Implements a stochastic optimization problem using the Stochastic Programs with Recourse formulation. The goal is to analyze and solve the problem under different demand variances using various models.
 
-**Repository:** [Stochastic Programming](https://github.com/OR-toolkit/site-allocation-solver)
+**Repository:** [Stochastic Programming with Recourse formulation](https://github.com/OR-toolkit/site-allocation-solver)
 
 ---
 
