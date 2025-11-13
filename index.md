@@ -53,7 +53,7 @@ We welcome contributions from the community! Here's how you can get involved:
 
 For questions, collaboration opportunities, or general inquiries, please reach out:
 
-- **Email:** [or-toolkit@example.com](mailto:boulaich.mohamed970@gmail.com)
+- **Email:** [boulaich.mohamed970@gmail.com](mailto:boulaich.mohamed970@gmail.com)
 - **GitHub:** [OR-toolkit Organization](https://github.com/OR-toolkit)
 
 We're always interested in hearing about how you're using our tools or ideas for new features!
